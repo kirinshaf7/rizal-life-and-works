@@ -1,1 +1,0 @@
-# rizal-life-and-works
