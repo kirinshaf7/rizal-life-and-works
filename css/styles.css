@@ -560,7 +560,7 @@ footer {
 
 .accordion-item.active .accordion-content {
   padding: 1rem;
-  max-height: 500px;
+  max-height: 700px;
 }
 
 /* Feature List */
